@@ -1,0 +1,14 @@
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildBlockbusterLab\DevBuildBlockbusterLab\bin\Debug\netcoreapp3.1\DevBuildBlockbusterLab.exe
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildBlockbusterLab\DevBuildBlockbusterLab\bin\Debug\netcoreapp3.1\DevBuildBlockbusterLab.deps.json
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildBlockbusterLab\DevBuildBlockbusterLab\bin\Debug\netcoreapp3.1\DevBuildBlockbusterLab.runtimeconfig.json
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildBlockbusterLab\DevBuildBlockbusterLab\bin\Debug\netcoreapp3.1\DevBuildBlockbusterLab.runtimeconfig.dev.json
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildBlockbusterLab\DevBuildBlockbusterLab\bin\Debug\netcoreapp3.1\DevBuildBlockbusterLab.dll
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildBlockbusterLab\DevBuildBlockbusterLab\bin\Debug\netcoreapp3.1\DevBuildBlockbusterLab.pdb
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildBlockbusterLab\DevBuildBlockbusterLab\obj\Debug\netcoreapp3.1\DevBuildBlockbusterLab.csproj.AssemblyReference.cache
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildBlockbusterLab\DevBuildBlockbusterLab\obj\Debug\netcoreapp3.1\DevBuildBlockbusterLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildBlockbusterLab\DevBuildBlockbusterLab\obj\Debug\netcoreapp3.1\DevBuildBlockbusterLab.AssemblyInfoInputs.cache
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildBlockbusterLab\DevBuildBlockbusterLab\obj\Debug\netcoreapp3.1\DevBuildBlockbusterLab.AssemblyInfo.cs
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildBlockbusterLab\DevBuildBlockbusterLab\obj\Debug\netcoreapp3.1\DevBuildBlockbusterLab.csproj.CoreCompileInputs.cache
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildBlockbusterLab\DevBuildBlockbusterLab\obj\Debug\netcoreapp3.1\DevBuildBlockbusterLab.dll
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildBlockbusterLab\DevBuildBlockbusterLab\obj\Debug\netcoreapp3.1\DevBuildBlockbusterLab.pdb
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\DevBuildBlockbusterLab\DevBuildBlockbusterLab\obj\Debug\netcoreapp3.1\DevBuildBlockbusterLab.genruntimeconfig.cache
