@@ -47,6 +47,14 @@ namespace DevBuildBlockbusterLab
         {
         }
 
+        public virtual void PlayWholeMovie()
+        {
+            for (int i = 0; i < Scenes.Count; i++)
+            {
+                Console.WriteLine($"Scene {i + 1}: {Scenes[i]}");
+                Console.WriteLine();
+            }
+        }
 
         public override string ToString()
         {
@@ -55,9 +63,9 @@ namespace DevBuildBlockbusterLab
                 $"Runtime: {RunTime}\n";
         }
 
-        public void PrintScenes()
+        public virtual void PrintScenes()
         {
-            //TODO
+
         }
 
         public bool WatchAnotherScene()

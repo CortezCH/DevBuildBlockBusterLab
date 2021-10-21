@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace DevBuildBlockbusterLab
@@ -61,12 +62,19 @@ namespace DevBuildBlockbusterLab
                 "No! I am glad to have shared in your perils - that is more than any Baggins deserves!"})
         };
 
+        private void OrderMovieList()
+        {
+            movies = movies.OrderBy(movie => movie.Title).ToList();
+        }
+
         public void PrintMovies()
         {
+            OrderMovieList();
             Console.WriteLine("Here are the available movies:");
-            foreach(Movie movie in movies)
+            foreach (Movie movie in movies)
             {
-                Console.WriteLine("{0, -5} {1}", $"[{movies.IndexOf(movie) + 1}]:", movie.Title);
+                
+                Console.WriteLine("{0, -5} {1}", $"[{movies.IndexOf(movie)+1}]:", movie.Title);
             }
         }
 
@@ -104,6 +112,22 @@ namespace DevBuildBlockbusterLab
                 default:
                     Console.WriteLine("That input was invalid. Please try again");
                     return WatchMovie();
+            }
+        }
+
+        public void PlayAllMovies()
+        {
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine("This is to show off the playing of the whole movies");
+
+            foreach (Movie movie in movies)
+            {
+                Console.WriteLine(movie);
+                movie.PlayWholeMovie();
             }
         }
 

@@ -16,7 +16,7 @@ namespace DevBuildBlockbusterLab
         {
             try
             {
-                int userSceneChoice = int.Parse(GetUserInput($"Which Scene of the DVD \"{Title}\" would you like to watch? Select 1 to {scenes.Count}: "));
+                int userSceneChoice = int.Parse(GetUserInput($"Which Scene of the DVD \"{Title}\" would you like to watch? Select 1 to {Scenes.Count}: "));
                 Console.WriteLine($"Scene {userSceneChoice}: {scenes[userSceneChoice-1]}");
 
                 if (WatchAnotherScene())
@@ -30,6 +30,12 @@ namespace DevBuildBlockbusterLab
                 Play();
             }
             
+        }
+
+        public override void PrintScenes()
+        {
+            Console.WriteLine("Here is the whole movie: ");
+            PlayWholeMovie();
         }
     }
 }

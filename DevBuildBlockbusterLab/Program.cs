@@ -10,6 +10,8 @@ namespace DevBuildBlockbusterLab
 
             Console.WriteLine("Welcome to GC Blockbuster!");
             blockBuster.Checkout();
+
+            blockBuster.PlayAllMovies();
         }
     }
 }

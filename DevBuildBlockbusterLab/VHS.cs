@@ -31,6 +31,11 @@ namespace DevBuildBlockbusterLab
             
         }
 
+        public override void PrintScenes()
+        {
+            PlayWholeMovie();
+        }
+
         public void Rewind()
         {
             currentTime = 0;
